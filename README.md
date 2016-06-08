@@ -1,6 +1,6 @@
 # LRU-Cache
 
-Design and implement a data structure for Least Recently Used (LRU) cache.It should support the following operations: get and set.
+Design and implement a data structure for Least Recently Used (LRU) cache in Go Language.It should support the following operations: get and set.
 
    get(key)
 
